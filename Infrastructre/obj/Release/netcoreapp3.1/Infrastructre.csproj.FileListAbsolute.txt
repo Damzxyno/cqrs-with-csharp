@@ -1,0 +1,9 @@
+/Users/decagon/projects/ZeroToHero/Infrastructre/bin/Release/netcoreapp3.1/Infrastructre.deps.json
+/Users/decagon/projects/ZeroToHero/Infrastructre/bin/Release/netcoreapp3.1/Infrastructre.dll
+/Users/decagon/projects/ZeroToHero/Infrastructre/bin/Release/netcoreapp3.1/Infrastructre.pdb
+/Users/decagon/projects/ZeroToHero/Infrastructre/obj/Release/netcoreapp3.1/Infrastructre.csproj.AssemblyReference.cache
+/Users/decagon/projects/ZeroToHero/Infrastructre/obj/Release/netcoreapp3.1/Infrastructre.AssemblyInfoInputs.cache
+/Users/decagon/projects/ZeroToHero/Infrastructre/obj/Release/netcoreapp3.1/Infrastructre.AssemblyInfo.cs
+/Users/decagon/projects/ZeroToHero/Infrastructre/obj/Release/netcoreapp3.1/Infrastructre.csproj.CoreCompileInputs.cache
+/Users/decagon/projects/ZeroToHero/Infrastructre/obj/Release/netcoreapp3.1/Infrastructre.dll
+/Users/decagon/projects/ZeroToHero/Infrastructre/obj/Release/netcoreapp3.1/Infrastructre.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xIdEtw6rDl36R+Z4gIxlDGcbFT21N0u+/DQw/7TZp4mgAgcJsT57U0bj5KjNwopgf41WZ68e86EzXjy5QD77VA==",
+  "success": true,
+  "projectFilePath": "/Users/decagon/projects/ZeroToHero/ZeroToHero/ZeroToHero.csproj",
+  "expectedPackageFiles": [
+    "/Users/decagon/.nuget/packages/mediatr/10.0.1/mediatr.10.0.1.nupkg.sha512",
+    "/Users/decagon/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/decagon/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/10.0.1/mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "/Users/decagon/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

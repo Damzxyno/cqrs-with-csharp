@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{F4261AC3-518E-45A4-83F6-E78CCCC03C67}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ZeroToHero/Startup.cs">
+    <Files>
+      <File FileName="ZeroToHero/Startup.cs" Line="30" Column="37" />
+      <File FileName="ZeroToHero/Controllers/WeatherForecastController.cs" Line="33" Column="36" />
+      <File FileName="Infrastructre/Class1.cs" Line="9" Column="1" />
+      <File FileName="ZeroToHero/appsettings.json" Line="1" Column="1" />
+      <File FileName="ZeroToHero/ZeroToHero.csproj" Line="20" Column="56" />
+      <File FileName="ZeroToHero/Program.cs" Line="1" Column="1" />
+      <File FileName="ZeroToHero/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="ZeroToHero/Handlers/Queries/BookQuery.cs" Line="35" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ZeroToHero" expanded="True">
+            <Node name="Infrastructre" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="ZeroToHero" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Handlers" expanded="True">
+                <Node name="Queries" expanded="True" />
+              </Node>
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.ZeroToHero PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Infrastructre FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
